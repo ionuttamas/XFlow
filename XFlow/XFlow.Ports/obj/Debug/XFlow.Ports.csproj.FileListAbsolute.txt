@@ -1,0 +1,5 @@
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Ports\bin\Debug\XFlow.Ports.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Ports\bin\Debug\XFlow.Ports.pdb
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Ports\obj\Debug\XFlow.Ports.csprojResolveAssemblyReference.cache
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Ports\obj\Debug\XFlow.Ports.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Ports\obj\Debug\XFlow.Ports.pdb

@@ -1,0 +1,5 @@
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Bus\bin\Debug\XFlow.Bus.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Bus\bin\Debug\XFlow.Bus.pdb
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Bus\obj\Debug\XFlow.Bus.csprojResolveAssemblyReference.cache
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Bus\obj\Debug\XFlow.Bus.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Bus\obj\Debug\XFlow.Bus.pdb
