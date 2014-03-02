@@ -1,0 +1,5 @@
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Models\bin\Debug\XFlow.Models.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Models\bin\Debug\XFlow.Models.pdb
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Models\obj\Debug\XFlow.Models.csprojResolveAssemblyReference.cache
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Models\obj\Debug\XFlow.Models.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Models\obj\Debug\XFlow.Models.pdb

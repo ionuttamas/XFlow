@@ -1,0 +1,4 @@
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Swapping\bin\Debug\XFlow.Swapping.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Swapping\bin\Debug\XFlow.Swapping.pdb
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Swapping\obj\Debug\XFlow.Swapping.dll
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Swapping\obj\Debug\XFlow.Swapping.pdb
