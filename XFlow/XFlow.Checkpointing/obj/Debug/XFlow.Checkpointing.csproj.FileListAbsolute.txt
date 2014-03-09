@@ -2,3 +2,4 @@ C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Checkpointing\bin\Debug\XFlow.Checkpo
 C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Checkpointing\bin\Debug\XFlow.Checkpointing.pdb
 C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Checkpointing\obj\Debug\XFlow.Checkpointing.dll
 C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Checkpointing\obj\Debug\XFlow.Checkpointing.pdb
+C:\Work\Projects\XFlow\Sources\XFlow\XFlow.Checkpointing\obj\Debug\XFlow.Checkpointing.csprojResolveAssemblyReference.cache
