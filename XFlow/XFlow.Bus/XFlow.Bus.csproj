@@ -42,6 +42,12 @@
     <Compile Include="IBus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XFlow.Models\XFlow.Messaging.csproj">
+      <Project>{7d5aaa76-2e1e-4bd8-a444-aaa7f5aad28a}</Project>
+      <Name>XFlow.Messaging</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
