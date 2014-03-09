@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFlow.Checkpointing", "XFlo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFlow.Swapping", "XFlow.Swapping\XFlow.Swapping.csproj", "{A7F45E82-5CE7-4916-9858-3C5879FD0CB4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5C23571B-D867-4C12-82A8-AC854AE6D560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFlow.Infrastructure", "XFlow.Infrastructure\XFlow.Infrastructure.csproj", "{BDEF9049-A3B8-48C8-B1DC-4447E4AEF293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,10 @@ Global
 		{A7F45E82-5CE7-4916-9858-3C5879FD0CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7F45E82-5CE7-4916-9858-3C5879FD0CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7F45E82-5CE7-4916-9858-3C5879FD0CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEF9049-A3B8-48C8-B1DC-4447E4AEF293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEF9049-A3B8-48C8-B1DC-4447E4AEF293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEF9049-A3B8-48C8-B1DC-4447E4AEF293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEF9049-A3B8-48C8-B1DC-4447E4AEF293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,5 +72,6 @@ Global
 		{DF6AA92B-68BA-4A91-A729-225C12702F3C} = {0018C0C5-79B4-456D-9D73-D51B18900492}
 		{BFD4E08F-3E01-435C-A7AB-F0BDB7D3D374} = {939DE3DD-BAE6-485A-B95D-D7FADA9F42DA}
 		{A7F45E82-5CE7-4916-9858-3C5879FD0CB4} = {939DE3DD-BAE6-485A-B95D-D7FADA9F42DA}
+		{BDEF9049-A3B8-48C8-B1DC-4447E4AEF293} = {5C23571B-D867-4C12-82A8-AC854AE6D560}
 	EndGlobalSection
 EndGlobal

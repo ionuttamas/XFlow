@@ -43,6 +43,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\XFlow.Checkpointing\XFlow.Checkpointing.csproj">
+      <Project>{BFD4E08F-3E01-435C-A7AB-F0BDB7D3D374}</Project>
+      <Name>XFlow.Checkpointing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XFlow.Infrastructure\XFlow.Infrastructure.csproj">
+      <Project>{BDEF9049-A3B8-48C8-B1DC-4447E4AEF293}</Project>
+      <Name>XFlow.Infrastructure</Name>
+    </ProjectReference>
     <ProjectReference Include="..\XFlow.Models\XFlow.Messaging.csproj">
       <Project>{7d5aaa76-2e1e-4bd8-a444-aaa7f5aad28a}</Project>
       <Name>XFlow.Messaging</Name>
