@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Execution", "Execution", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Visualization", "Visualization", "{9F64171F-0E7E-47E7-B81F-51D5FB922242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFlow.Models", "XFlow.Models\XFlow.Models.csproj", "{7D5AAA76-2E1E-4BD8-A444-AAA7F5AAD28A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFlow.Messaging", "XFlow.Models\XFlow.Messaging.csproj", "{7D5AAA76-2E1E-4BD8-A444-AAA7F5AAD28A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFlow.BPC", "XFlow.BPC\XFlow.BPC.csproj", "{DA9D979D-1023-4244-A5C2-00C639BBE428}"
 EndProject
